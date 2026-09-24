@@ -1,0 +1,3 @@
+<h1 class="wp-block-heading has-text-align-center">Buy Weed Online UK</h1>
+
+<p class="has-text-align-center wp-block-paragraph">Buy Weed Online UK. Here at <?= $this->_company['c_name'] ?>, you can buy <a href="/">cannabis</a> <a href="https://www.healthline.com/health/delta-8">strains </a>in <a href="https://dabworldeu.com" type="link" id="https://dabworldeu.com">hybrid</a>, Indica, and <a href="/refund_returns/">Sativa weed strains</a>. We also sell <a href="https://ganjaspace-au.com">edibles</a>, <a href="https://ganjablazeuk.com">marijuana </a><a href="https://drawleafuk.com">concentrates</a>, and <a href="https://strainshubeu.com/">prefilled oil</a> <a href="https://budsbeyonduk.com" type="link" id="https://budsbeyonduk.com">vape cartridges</a>.</p>
